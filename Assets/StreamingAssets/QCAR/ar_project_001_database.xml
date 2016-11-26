@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stones" size="3.000000 2.100000" />
+    <ImageTarget name="dronePointTwo" size="1.000000 0.585106" />
+    <ImageTarget name="dronePointOne" size="1.000000 0.588235" />
+    <ImageTarget name="aliPic" size="1.000000 0.893577" />
+    <ImageTarget name="spaceTarget3" size="3.000000 1.690141" />
+    <ImageTarget name="spaceTarget" size="2.000000 1.126761" />
+    <ImageTarget name="earthRotation" size="1.000000 1.003917" />
+    <ImageTarget name="10_of_Spades" size="1.000000 1.417143" />
+    <ImageTarget name="joker" size="1.000000 1.213043" />
+    <ImageTarget name="aceofspades" size="1.000000 1.461207" />
+    <ImageTarget name="3heart" size="1.000000 1.366907" />
+    <ImageTarget name="playingcards_3hearts" size="1.000000 1.508000" />
+  </Tracking>
+</QCARConfig>

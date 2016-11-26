@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Planet Earth Free\MoveObject.cs">
+    <Files>
+      <File FileName="Assets\Planet Earth Free\PositiveZCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Planet Earth Free\EarthRotation.cs" Line="21" Column="25" />
+      <File FileName="Assets\Planet Earth Free\MoveObject.cs" Line="27" Column="25" />
+      <File FileName="Assets\Planet Earth Free\VirtualButtonUp.cs" Line="13" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
